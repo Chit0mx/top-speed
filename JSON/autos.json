@@ -1,0 +1,125 @@
+
+[
+    {   "IMG":"IMG/leon_fr.jpg",
+        "Categoria": "Hot Hatch",
+        "Marca": "Seat",
+        "Modelo": "León FR",
+        "Anio": "2013",
+        "Motor":"1.8L T",
+        "HP":"180",
+        "Velocidad": "7.4s",
+        "Transmision":"Automatica"
+    },{
+        "IMG":"IMG/Leon_Cupra.jpg",
+        "Categoria": "Hot Hatch",
+        "Marca": "Seat",
+        "Modelo": "León Cupra 290",
+        "Anio": "2017",
+        "Motor":"2.0L T",
+        "HP":"290",
+        "Velocidad": "4.9s",
+        "Transmision":"Automatica"
+    },{
+        "IMG":"IMG/Golf_GTI.jpg",
+        "Categoria": "Hot Hatch",
+        "Marca": "Volkswagen",
+        "Modelo": "Golf GTI",
+        "Anio": "2018",
+        "Motor":"2.0L T",
+        "HP":"230",
+        "Velocidad": "6.5s",
+        "Transmision":"Automatica"
+    },{
+        "IMG":"IMG/Golf_R.jpg",
+        "Categoria": "Hot Hatch",
+        "Marca": "Volkswagen",
+        "Modelo": "Golf R",
+        "Anio": "2018",
+        "Motor":"2.0L T",
+        "HP":"290",
+        "Velocidad": "4.6s",
+        "Transmision":"Automatica"
+    },{
+        "IMG":"IMG/Camaro_ZL1.jpg",
+        "Categoria": "Muscle Car",
+        "Marca": "Chevrolet",
+        "Modelo": "Camaro ZL1",
+        "Anio": "2019",
+        "Motor":"6.8L V8",
+        "HP":"650",
+        "Velocidad": "3.6s",
+        "Transmision":"Manual"
+    },{
+        "IMG":"IMG/Shelby_GT500.jpg",
+        "Categoria": "Muscle Car",
+        "Marca": "Ford",
+        "Modelo": "Shelby GT500",
+        "Anio": "2019",
+        "Motor":"5.2L V8",
+        "HP":"760",
+        "Velocidad": "3.5s",
+        "Transmision":"Manual"
+    },{
+        "IMG":"IMG/Challenger_SRT.jpg",
+        "Categoria": "Muscle Car",
+        "Marca": "Dodge",
+        "Modelo": "Challenger SRT Demon",
+        "Anio": "2020",
+        "Motor":"6.2L V8",
+        "HP":"840",
+        "Velocidad": "2.3s",
+        "Transmision":"Manual"
+    },{
+        "IMG":"IMG/charger-srt.jpg",
+        "Categoria": "Muscle Car",
+        "Marca": "Dodge",
+        "Modelo": "Charger SRT Hellcat Redye",
+        "Anio": "2021",
+        "Motor":"6.2L V8",
+        "HP":"797",
+        "Velocidad": "3.5s",
+        "Transmision":"Manual"
+    },{
+        "IMG":"IMG/m5.jpg",
+        "Categoria": "Sport Sedan",
+        "Marca": "BMW",
+        "Modelo": "M5",
+        "Anio": "2018",
+        "Motor":"4.4L Twin-Turbo",
+        "HP":"625",
+        "Velocidad": "3.3s",
+        "Transmision":"Automatica"
+    },{
+        "IMG":"IMG/c63s.jpg",
+        "Categoria": "Sport Sedan",
+        "Marca": "Mercedes-Benz",
+        "Modelo": "C63s",
+        "Anio": "2018",
+        "Motor":"4.0L V8 Twin-Turbo",
+        "HP":"476",
+        "Velocidad": "3.9s",
+        "Transmision":"Automatica"
+    },{
+        "IMG":"IMG/RS7.jpg",
+        "Categoria": "Sport Sedan",
+        "Marca": "Audi",
+        "Modelo": "RS7",
+        "Anio": "2020",
+        "Motor":"4.0L Biturbo",
+        "HP":"600",
+        "Velocidad": "3.3s",
+        "Transmision":"Automatica"
+    },{
+        "IMG":"IMG/Stinger-GT.jpg",
+        "Categoria": "Sport Sedan",
+        "Marca": "KIA",
+        "Modelo": "Stinger GT",
+        "Anio": "2020",
+        "Motor":"3.3L Twin-Turbo",
+        "HP":"365",
+        "Velocidad": "4.9s",
+        "Transmision":"Automatica"
+    },
+{"IMG":"IMG\/2019-ford-mustang-shelby-gt350.jpg","Categoria":"Muscle Car","Marca":"Ford","Modelo":"Mustang GT350","Anio":"2019","Motor":"5.2L V8","HP":"549","Velocidad":"4.0s","Transmision":"Manual"},
+{"IMG":"IMG\/apollo-ie-video.jpg","Categoria":"Exotico","Marca":"Apollo DE","Modelo":"Apollo IE","Anio":"2020","Motor":"6.3L V12","HP":"780","Velocidad":"2.7s","Transmision":"Automatica"},
+{"IMG":"IMG\/2019-Ferrari-488-Pista-014-1080.jpg","Categoria":"Super Car","Marca":"Ferrari","Modelo":"448 Pista","Anio":"2019","Motor":"3.8L V8","HP":"710","Velocidad":"2.9s","Transmision":"Automatica"}]

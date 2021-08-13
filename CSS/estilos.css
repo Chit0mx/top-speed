@@ -1,0 +1,52 @@
+body{
+    font-family: "Rubik";
+    margin: 0;
+}
+h1,h2,h3,p{
+    text-align: center;
+}
+h1{
+    font-size: 48px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 36px;
+}
+p{
+    font-size: 24px;
+}
+.nav-txt{
+    font-size: large;
+}
+
+footer{
+    background-color: #292b2c;
+    color: white;
+
+}
+
+.txt-mid{
+  text-align: center;
+}
+.iconos {
+  font-size: 50px;
+}
+.dis-ico {
+  display: flex;
+  justify-content: space-around;
+}
+.dis-ico a {
+  color: white;
+}
+
+.fb:hover {
+  color: #3b5998;
+}
+.wa:hover {
+  color: #25d366;
+}
+.ig:hover {
+  color: #e1306c;
+}
